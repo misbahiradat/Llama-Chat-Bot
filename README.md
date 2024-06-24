@@ -12,7 +12,7 @@ This project provides an interactive chat interface using state-of-the-art LLaMA
 - Secure API key management using environment variables.
 
 ## Demo
-Check out the live demo [here](https://github.com/misbahiradat/Testing/blob/78b64f63331cce7e67513677084cc551c59a6e50/pic2.png).
+Check out the live demo [here](https://llama-chat-bot-6moppcxkyheh8w6awrszla.streamlit.app/).
 
 ## Installation
 
