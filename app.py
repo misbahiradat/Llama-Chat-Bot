@@ -6,7 +6,7 @@ from groq import Groq
 # load_dotenv()
 groq_api_key = os.getenv("groq_api_key")
 
-st.sidebar.image("https://github.com/misbahiradat/Testing/blob/eb0f844555cb848841d342133e507bbf60593333/image-removebg-preview%20(32).png", width=150)
+st.sidebar.image(https://github.com/misbahiradat/Testing/blob/eb0f844555cb848841d342133e507bbf60593333/image-removebg-preview%20(32).png, width=150)
 st.sidebar.title("Personalization")
 # prompt = st.sidebar.title("System Prompt: ")
 model = st.sidebar.selectbox(
