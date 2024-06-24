@@ -1,9 +1,9 @@
 import os
 import streamlit as st
 from groq import Groq
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 groq_api_key = os.getenv("groq_api_key")
 
 st.sidebar.image(r"C:\Users\Misbah Iradat\Downloads\image-removebg-preview (32).png", width=150)
