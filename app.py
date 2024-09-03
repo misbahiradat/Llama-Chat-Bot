@@ -4,7 +4,7 @@ from groq import Groq
 # from dotenv import load_dotenv
 
 # load_dotenv()
-groq_api_key = os.getenv("groq_api_key")
+groq_api_key = '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'
 
 st.sidebar.image("https://raw.githubusercontent.com/misbahiradat/Llama-Chat-Bot/51f3c6bc3594728a63a1e673bddbedf3f1e99d69/image-removebg-preview%20(32).png", width=150)
 st.sidebar.title("Personalization")
