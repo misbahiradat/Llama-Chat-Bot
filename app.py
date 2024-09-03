@@ -17,7 +17,7 @@ model = st.sidebar.selectbox(
 client = Groq(api_key = groq_api_key)
 
 # Streamlit Interface
-st.title("💬 Chat with LLM")
+st.title("💬 Generate your own Code")
 
 # Initialize sessesion state for history
 if "history" not in st.session_state:
