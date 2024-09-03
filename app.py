@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from groq import Groq
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 
 # load_dotenv()
 groq_api_key = os.getenv("groq_api_key")
